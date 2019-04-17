@@ -9,6 +9,7 @@ For the last 5 years, there has been a constant rise in the numbers of riots occ
 * Caste | Upper castes vs Dalit clashes
 * Racist Clashes | North Indian vs Mongoloid Community Clashes
 * Separatist Riots | Riots related to Militant Activities at border areas.
+
 (_although there are several other types of riot as in Campus Riots,Servicemen Riots etc and __there are many instances where a riot may not be classified into a single type because of the presence of many interrelated factors__ the makes the classification confusing._
 
 #### In this project we are only sticking to the major type of riots and predictions will be made on the basis of 5 points as follows:_
