@@ -16,4 +16,4 @@ For the last 5 years, there has been a constant rise in the numbers of riots occ
 2. Astonishing rise in the numbers of Religious|Political contents with negative polarity in social media platforms.
 
 
-...... cond.
+...... cntd.
