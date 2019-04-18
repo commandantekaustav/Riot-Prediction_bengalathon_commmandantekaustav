@@ -14,7 +14,7 @@ For the last 5 years, there has been a constant rise in the numbers of riots occ
 
 #### In this project we are only sticking to the major type of riots and predictions will be made on the basis of 5 points as follows:_
 1. Sentiment Ananlysis of Public Outrages on Social Forums.
-2. Astonishing rise in the numbers of Religious|Political contents with negative polarity in social media platforms.
+2. Astonishing rise in the numbers of Religious | Political contents with negative polarity in social media platforms.
 
 
 ...... cntd.
